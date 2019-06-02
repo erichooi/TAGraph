@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+           O       0.99      1.00      0.99     31844
+   B-Malware       0.87      0.48      0.62       299
+   I-Malware       0.80      0.29      0.42        28
+    B-Target       0.82      0.45      0.58       167
+    I-Target       0.54      0.34      0.42        77
+     B-Actor       0.94      0.72      0.81       345
+     I-Actor       0.89      0.76      0.82       100
+  B-Campaign       0.74      0.53      0.62        47
+  I-Campaign       0.80      0.62      0.70        56
+
+   micro avg       0.98      0.98      0.98     32963
+   macro avg       0.82      0.58      0.67     32963
+weighted avg       0.98      0.98      0.98     32963
+

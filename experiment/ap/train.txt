@@ -1,0 +1,526 @@
+Feature generation
+type: CRF1d
+feature.minfreq: 0.000000
+feature.possible_states: 0
+feature.possible_transitions: 0
+0....1....2....3....4....5....6....7....8....9....10
+Number of features: 38798
+Seconds required: 0.735
+
+Averaged perceptron
+max_iterations: 100
+epsilon: 0.000000
+
+***** Iteration #1 *****
+Loss: 13.010857
+Feature norm: 959.277558
+Seconds required for this iteration: 0.242
+
+***** Iteration #2 *****
+Loss: 9.120473
+Feature norm: 1133.702069
+Seconds required for this iteration: 0.217
+
+***** Iteration #3 *****
+Loss: 8.426418
+Feature norm: 1280.672694
+Seconds required for this iteration: 0.215
+
+***** Iteration #4 *****
+Loss: 7.572665
+Feature norm: 1417.546890
+Seconds required for this iteration: 0.208
+
+***** Iteration #5 *****
+Loss: 6.165905
+Feature norm: 1532.638247
+Seconds required for this iteration: 0.212
+
+***** Iteration #6 *****
+Loss: 5.717721
+Feature norm: 1617.934988
+Seconds required for this iteration: 0.213
+
+***** Iteration #7 *****
+Loss: 5.613725
+Feature norm: 1691.764749
+Seconds required for this iteration: 0.207
+
+***** Iteration #8 *****
+Loss: 5.406142
+Feature norm: 1756.862726
+Seconds required for this iteration: 0.209
+
+***** Iteration #9 *****
+Loss: 5.245004
+Feature norm: 1819.205012
+Seconds required for this iteration: 0.212
+
+***** Iteration #10 *****
+Loss: 4.479729
+Feature norm: 1874.848331
+Seconds required for this iteration: 0.208
+
+***** Iteration #11 *****
+Loss: 4.215021
+Feature norm: 1924.614576
+Seconds required for this iteration: 0.208
+
+***** Iteration #12 *****
+Loss: 4.085808
+Feature norm: 1968.120325
+Seconds required for this iteration: 0.209
+
+***** Iteration #13 *****
+Loss: 4.346124
+Feature norm: 2011.771722
+Seconds required for this iteration: 0.216
+
+***** Iteration #14 *****
+Loss: 3.622122
+Feature norm: 2052.216004
+Seconds required for this iteration: 0.210
+
+***** Iteration #15 *****
+Loss: 4.477866
+Feature norm: 2090.120478
+Seconds required for this iteration: 0.210
+
+***** Iteration #16 *****
+Loss: 3.664837
+Feature norm: 2126.954199
+Seconds required for this iteration: 0.209
+
+***** Iteration #17 *****
+Loss: 3.650486
+Feature norm: 2161.257201
+Seconds required for this iteration: 0.207
+
+***** Iteration #18 *****
+Loss: 3.100133
+Feature norm: 2193.050732
+Seconds required for this iteration: 0.206
+
+***** Iteration #19 *****
+Loss: 3.925328
+Feature norm: 2224.951018
+Seconds required for this iteration: 0.209
+
+***** Iteration #20 *****
+Loss: 3.888598
+Feature norm: 2255.428015
+Seconds required for this iteration: 0.202
+
+***** Iteration #21 *****
+Loss: 4.001620
+Feature norm: 2286.901989
+Seconds required for this iteration: 0.203
+
+***** Iteration #22 *****
+Loss: 3.506035
+Feature norm: 2316.773376
+Seconds required for this iteration: 0.220
+
+***** Iteration #23 *****
+Loss: 3.631126
+Feature norm: 2345.795883
+Seconds required for this iteration: 0.235
+
+***** Iteration #24 *****
+Loss: 2.662859
+Feature norm: 2373.168217
+Seconds required for this iteration: 0.227
+
+***** Iteration #25 *****
+Loss: 2.964684
+Feature norm: 2398.756035
+Seconds required for this iteration: 0.230
+
+***** Iteration #26 *****
+Loss: 3.501307
+Feature norm: 2424.586009
+Seconds required for this iteration: 0.227
+
+***** Iteration #27 *****
+Loss: 3.205091
+Feature norm: 2449.351945
+Seconds required for this iteration: 0.201
+
+***** Iteration #28 *****
+Loss: 3.356209
+Feature norm: 2473.831835
+Seconds required for this iteration: 0.180
+
+***** Iteration #29 *****
+Loss: 2.662069
+Feature norm: 2497.337460
+Seconds required for this iteration: 0.176
+
+***** Iteration #30 *****
+Loss: 2.259154
+Feature norm: 2519.331214
+Seconds required for this iteration: 0.172
+
+***** Iteration #31 *****
+Loss: 2.840892
+Feature norm: 2539.965021
+Seconds required for this iteration: 0.168
+
+***** Iteration #32 *****
+Loss: 3.739491
+Feature norm: 2560.787919
+Seconds required for this iteration: 0.176
+
+***** Iteration #33 *****
+Loss: 3.120238
+Feature norm: 2582.205902
+Seconds required for this iteration: 0.179
+
+***** Iteration #34 *****
+Loss: 3.378483
+Feature norm: 2603.707582
+Seconds required for this iteration: 0.176
+
+***** Iteration #35 *****
+Loss: 2.411351
+Feature norm: 2624.714707
+Seconds required for this iteration: 0.176
+
+***** Iteration #36 *****
+Loss: 3.016991
+Feature norm: 2645.320005
+Seconds required for this iteration: 0.181
+
+***** Iteration #37 *****
+Loss: 2.165099
+Feature norm: 2665.528994
+Seconds required for this iteration: 0.178
+
+***** Iteration #38 *****
+Loss: 2.917197
+Feature norm: 2684.923344
+Seconds required for this iteration: 0.176
+
+***** Iteration #39 *****
+Loss: 3.106658
+Feature norm: 2704.264713
+Seconds required for this iteration: 0.173
+
+***** Iteration #40 *****
+Loss: 2.408243
+Feature norm: 2723.290733
+Seconds required for this iteration: 0.176
+
+***** Iteration #41 *****
+Loss: 2.664363
+Feature norm: 2742.004627
+Seconds required for this iteration: 0.175
+
+***** Iteration #42 *****
+Loss: 2.261177
+Feature norm: 2760.381546
+Seconds required for this iteration: 0.173
+
+***** Iteration #43 *****
+Loss: 2.403880
+Feature norm: 2778.151468
+Seconds required for this iteration: 0.178
+
+***** Iteration #44 *****
+Loss: 2.413852
+Feature norm: 2795.462833
+Seconds required for this iteration: 0.171
+
+***** Iteration #45 *****
+Loss: 2.544628
+Feature norm: 2812.348569
+Seconds required for this iteration: 0.175
+
+***** Iteration #46 *****
+Loss: 2.473333
+Feature norm: 2829.178492
+Seconds required for this iteration: 0.176
+
+***** Iteration #47 *****
+Loss: 1.904941
+Feature norm: 2845.430070
+Seconds required for this iteration: 0.168
+
+***** Iteration #48 *****
+Loss: 2.209874
+Feature norm: 2861.307287
+Seconds required for this iteration: 0.172
+
+***** Iteration #49 *****
+Loss: 2.269485
+Feature norm: 2876.971198
+Seconds required for this iteration: 0.173
+
+***** Iteration #50 *****
+Loss: 2.167112
+Feature norm: 2892.219649
+Seconds required for this iteration: 0.176
+
+***** Iteration #51 *****
+Loss: 2.254916
+Feature norm: 2907.174637
+Seconds required for this iteration: 0.193
+
+***** Iteration #52 *****
+Loss: 2.166794
+Feature norm: 2921.852947
+Seconds required for this iteration: 0.166
+
+***** Iteration #53 *****
+Loss: 2.292773
+Feature norm: 2936.250730
+Seconds required for this iteration: 0.172
+
+***** Iteration #54 *****
+Loss: 1.982121
+Feature norm: 2950.261012
+Seconds required for this iteration: 0.168
+
+***** Iteration #55 *****
+Loss: 2.529679
+Feature norm: 2964.215771
+Seconds required for this iteration: 0.172
+
+***** Iteration #56 *****
+Loss: 1.841752
+Feature norm: 2978.094188
+Seconds required for this iteration: 0.173
+
+***** Iteration #57 *****
+Loss: 2.815767
+Feature norm: 2991.731270
+Seconds required for this iteration: 0.171
+
+***** Iteration #58 *****
+Loss: 1.884044
+Feature norm: 3005.301021
+Seconds required for this iteration: 0.170
+
+***** Iteration #59 *****
+Loss: 2.335199
+Feature norm: 3018.580544
+Seconds required for this iteration: 0.167
+
+***** Iteration #60 *****
+Loss: 2.415583
+Feature norm: 3031.834103
+Seconds required for this iteration: 0.173
+
+***** Iteration #61 *****
+Loss: 2.153088
+Feature norm: 3044.870250
+Seconds required for this iteration: 0.169
+
+***** Iteration #62 *****
+Loss: 1.862630
+Feature norm: 3057.640331
+Seconds required for this iteration: 0.171
+
+***** Iteration #63 *****
+Loss: 1.755990
+Feature norm: 3070.165577
+Seconds required for this iteration: 0.167
+
+***** Iteration #64 *****
+Loss: 2.174736
+Feature norm: 3082.442243
+Seconds required for this iteration: 0.171
+
+***** Iteration #65 *****
+Loss: 1.919440
+Feature norm: 3094.564854
+Seconds required for this iteration: 0.169
+
+***** Iteration #66 *****
+Loss: 2.131828
+Feature norm: 3106.464265
+Seconds required for this iteration: 0.172
+
+***** Iteration #67 *****
+Loss: 1.946412
+Feature norm: 3118.190184
+Seconds required for this iteration: 0.164
+
+***** Iteration #68 *****
+Loss: 1.793174
+Feature norm: 3129.680320
+Seconds required for this iteration: 0.163
+
+***** Iteration #69 *****
+Loss: 2.043394
+Feature norm: 3141.014706
+Seconds required for this iteration: 0.169
+
+***** Iteration #70 *****
+Loss: 2.326852
+Feature norm: 3152.284172
+Seconds required for this iteration: 0.171
+
+***** Iteration #71 *****
+Loss: 1.665111
+Feature norm: 3163.462702
+Seconds required for this iteration: 0.171
+
+***** Iteration #72 *****
+Loss: 2.514853
+Feature norm: 3174.668131
+Seconds required for this iteration: 0.172
+
+***** Iteration #73 *****
+Loss: 1.883674
+Feature norm: 3185.734374
+Seconds required for this iteration: 0.169
+
+***** Iteration #74 *****
+Loss: 1.991970
+Feature norm: 3196.656856
+Seconds required for this iteration: 0.172
+
+***** Iteration #75 *****
+Loss: 2.375504
+Feature norm: 3207.546393
+Seconds required for this iteration: 0.173
+
+***** Iteration #76 *****
+Loss: 1.492243
+Feature norm: 3218.351994
+Seconds required for this iteration: 0.169
+
+***** Iteration #77 *****
+Loss: 1.700505
+Feature norm: 3228.913469
+Seconds required for this iteration: 0.169
+
+***** Iteration #78 *****
+Loss: 1.733263
+Feature norm: 3239.321856
+Seconds required for this iteration: 0.165
+
+***** Iteration #79 *****
+Loss: 1.661673
+Feature norm: 3249.539108
+Seconds required for this iteration: 0.171
+
+***** Iteration #80 *****
+Loss: 1.653970
+Feature norm: 3259.575964
+Seconds required for this iteration: 0.162
+
+***** Iteration #81 *****
+Loss: 2.427223
+Feature norm: 3269.536241
+Seconds required for this iteration: 0.167
+
+***** Iteration #82 *****
+Loss: 2.003429
+Feature norm: 3279.527654
+Seconds required for this iteration: 0.172
+
+***** Iteration #83 *****
+Loss: 1.610608
+Feature norm: 3289.365132
+Seconds required for this iteration: 0.158
+
+***** Iteration #84 *****
+Loss: 2.387268
+Feature norm: 3299.155114
+Seconds required for this iteration: 0.170
+
+***** Iteration #85 *****
+Loss: 1.440053
+Feature norm: 3308.918513
+Seconds required for this iteration: 0.166
+
+***** Iteration #86 *****
+Loss: 1.604181
+Feature norm: 3318.503409
+Seconds required for this iteration: 0.161
+
+***** Iteration #87 *****
+Loss: 1.520386
+Feature norm: 3327.940200
+Seconds required for this iteration: 0.160
+
+***** Iteration #88 *****
+Loss: 2.672875
+Feature norm: 3337.430132
+Seconds required for this iteration: 0.196
+
+***** Iteration #89 *****
+Loss: 2.493993
+Feature norm: 3347.450943
+Seconds required for this iteration: 0.172
+
+***** Iteration #90 *****
+Loss: 1.542215
+Feature norm: 3357.379536
+Seconds required for this iteration: 0.164
+
+***** Iteration #91 *****
+Loss: 1.771357
+Feature norm: 3367.118039
+Seconds required for this iteration: 0.168
+
+***** Iteration #92 *****
+Loss: 1.448912
+Feature norm: 3376.723647
+Seconds required for this iteration: 0.165
+
+***** Iteration #93 *****
+Loss: 2.153694
+Feature norm: 3386.237772
+Seconds required for this iteration: 0.164
+
+***** Iteration #94 *****
+Loss: 1.528071
+Feature norm: 3395.729132
+Seconds required for this iteration: 0.162
+
+***** Iteration #95 *****
+Loss: 2.002987
+Feature norm: 3405.142781
+Seconds required for this iteration: 0.168
+
+***** Iteration #96 *****
+Loss: 1.553889
+Feature norm: 3414.466267
+Seconds required for this iteration: 0.160
+
+***** Iteration #97 *****
+Loss: 1.718356
+Feature norm: 3423.697414
+Seconds required for this iteration: 0.166
+
+***** Iteration #98 *****
+Loss: 1.494173
+Feature norm: 3432.775859
+Seconds required for this iteration: 0.166
+
+***** Iteration #99 *****
+Loss: 1.449495
+Feature norm: 3441.703640
+Seconds required for this iteration: 0.160
+
+***** Iteration #100 *****
+Loss: 1.522101
+Feature norm: 3450.487359
+Seconds required for this iteration: 0.167
+
+Total seconds required for training: 18.239
+
+Storing the model
+Number of active features: 23616 (38798)
+Number of active attributes: 18036 (33208)
+Number of active labels: 9 (9)
+Writing labels
+Writing attributes
+Writing feature references for transitions
+Writing feature references for attributes
+Seconds required: 0.137
+
+Done training and save as crf_final.model
